@@ -31,31 +31,31 @@ Astogram is a modern social media platform designed to connect people through sh
 
 Key Features:
 
-Personalized Feeds: Tailored content based on your interests and connections.
+• Personalized Feeds: Tailored content based on your interests and connections.
 
-Profile Customization: Showcase your personality with customizable profiles and themes.
+• Profile Customization: Showcase your personality with customizable profiles and themes.
 
-Interactive Posts: Share photos, videos, and updates with ease.
+• Interactive Posts: Share photos, videos, and updates with ease.
     
-Community Engagement: Join groups, follow hashtags, and participate in discussions.
+• Community Engagement: Join groups, follow hashtags, and participate in discussions.
 
-Privacy and Security: Robust privacy settings to control your information and interactions.
+• Privacy and Security: Robust privacy settings to control your information and interactions.
 
-Messaging and Chat: Instant messaging and group chat functionalities for real-time communication.
+• Messaging and Chat: Instant messaging and group chat functionalities for real-time communication.
 
-Notifications: Customizable notifications for updates, messages, and interactions.
+• Notifications: Customizable notifications for updates, messages, and interactions.
 
-Explore and Discover: Discover new content and users through trending topics, recommendations, and discovery algorithms.
+• Explore and Discover: Discover new content and users through trending topics, recommendations, and discovery algorithms.
 
-Analytics and Insights: Access analytics and insights on your content performance and audience engagement.
+• Analytics and Insights: Access analytics and insights on your content performance and audience engagement.
 
-Multi-platform Support: Seamless experience across web, iOS, and Android platforms.
+• Multi-platform Support: Seamless experience across web, iOS, and Android platforms.
 
-Accessibility: Support for accessibility features to ensure inclusivity for all users.
+• Accessibility: Support for accessibility features to ensure inclusivity for all users.
 
-Moderation Tools: Tools for community moderation, content reporting, and user management.
+• Moderation Tools: Tools for community moderation, content reporting, and user management.
 
-Monetization Options: Opportunities for users and creators to monetize their content (e.g., through ads, subscriptions, or partnerships).
+• Monetization Options: Opportunities for users and creators to monetize their content (e.g., through ads, subscriptions, or partnerships).
 
                       -- END --
 Data Privacy: Commitment to user data privacy and compliance with relevant regulations (e.g., GDPR, CCPA  
