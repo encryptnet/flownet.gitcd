@@ -1,6 +1,6 @@
-//𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝘼𝙨𝙩𝙤𝙜𝙧𝙖𝙢.
+// 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝘼𝙨𝙩𝙤𝙜𝙧𝙖𝙢.
 
-//𝙃𝙚𝙧𝙚 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙞𝙩𝙮 𝙢𝙚𝙚𝙩𝙨 𝙘𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮.
+// 𝙃𝙚𝙧𝙚 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙞𝙩𝙮 𝙢𝙚𝙚𝙩𝙨 𝙘𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮.
 
 - Discover Your World:
 Astogram isn't just another social media platform; it's your gateway to discovering and sharing the moments that define you. From captivating visuals to thought-provoking discussions, explore a world of diverse content tailored to your interests and passions.
