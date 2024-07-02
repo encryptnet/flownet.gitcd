@@ -1,24 +1,24 @@
 Welcome to Astogram, where creativity meets community!
 
-Discover Your World:
+- Discover Your World:
 Astogram isn't just another social media platform; it's your gateway to discovering and sharing the moments that define you. From captivating visuals to thought-provoking discussions, explore a world of diverse content tailored to your interests and passions.
 
-Unleash Your Creativity:
+- Unleash Your Creativity:
 Whether you're an artist, a storyteller, or a trendsetter, Astogram empowers you to express yourself freely. Share your unique perspective through photos, videos, and posts that reflect who you are.
 
-Connect Authentically:
+- Connect Authentically:
 Build meaningful connections with like-minded individuals from around the globe. Join communities, follow hashtags, and engage in conversations that matter to you. With robust privacy controls, you can interact safely and confidently.
 
-Stay Connected, Anywhere:
+- Stay Connected, Anywhere:
 Experience Astogram seamlessly across devices. Whether you're on your desktop, smartphone, or tablet, stay connected with your friends and followers wherever you go.
 
-Enhanced User Experience:
+- Enhanced User Experience:
 Enjoy a sleek interface designed for intuitive navigation and seamless interaction. From personalized feeds to real-time notifications, every feature is crafted to enhance your social media experience.
 
-Join the Conversation:
+- Join the Conversation:
 Get involved in events, challenges, and trending topics that spark your curiosity. Explore new interests, participate in community initiatives, and celebrate what makes Original Media a vibrant community of creators and explorers.
 
-Contribute and Collaborate:
+- Contribute and Collaborate:
 Your voice matters! Contribute to the evolution of Astogram through feedback, suggestions, and contributions. Together, we can shape a social media experience that celebrates diversity, creativity, and authentic connections.
 
 License:
