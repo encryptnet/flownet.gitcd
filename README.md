@@ -1,6 +1,4 @@
-Flownet
-
-Flownet is a social media application designed to connect people and foster meaningful conversations. The platform allows users to create profiles, share content, join groups, and engage with others in a dynamic and interactive environment.
+𝙁𝙡𝙤𝙬𝙣𝙚𝙩 is a social media application designed to connect people and foster meaningful conversations. The platform allows users to create profiles, share content, join groups, and engage with others in a dynamic and interactive environment.
 
 Key Features
 - User profiles and networking
@@ -10,4 +8,4 @@ Key Features
 
 About This Project -
 
-This repository contains the source code for the Flownet social media application. We welcome contributions, bug reports, and feature requests.
+This repository contains the source code for the 𝙁𝙡𝙤𝙬𝙣𝙚𝙩 social media application. We welcome contributions, bug reports, and feature requests.
