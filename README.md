@@ -8,5 +8,6 @@ Key Features
 - Group discussions and community building
 - Private messaging for one-on-one conversations
 
-About This Project
+About This Project -
+
 This repository contains the source code for the Flownet social media application. We welcome contributions, bug reports, and feature requests.
